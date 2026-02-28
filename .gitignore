@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# .NET
+bin/
+obj/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs/cache
+*.log
+.cache/
+main
