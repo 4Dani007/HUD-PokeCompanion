@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PokeLastCatch/1.0.0": {
+        "dependencies": {
+          "PKHeX.Core": "20.11.28"
+        },
+        "runtime": {
+          "PokeLastCatch.dll": {}
+        }
+      },
+      "PKHeX.Core/20.11.28": {
+        "runtime": {
+          "lib/netstandard2.0/PKHeX.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokeLastCatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PKHeX.Core/20.11.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kUqXNa+1GN/vPcFhBGCUUsElrYTyec1lH4z6SPT/7INyp5WbXDY+8GVpIR3jK7oEBAS2C81TNaVJZ3eCoB4yBA==",
+      "path": "pkhex.core/20.11.28",
+      "hashPath": "pkhex.core.20.11.28.nupkg.sha512"
+    }
+  }
+}

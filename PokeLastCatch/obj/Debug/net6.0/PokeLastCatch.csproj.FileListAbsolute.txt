@@ -1,0 +1,17 @@
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\PokeLastCatch.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\PokeLastCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\PokeLastCatch.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\PokeLastCatch.AssemblyInfo.cs
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\PokeLastCatch.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\bin\Debug\net6.0\PokeLastCatch.exe
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\bin\Debug\net6.0\PokeLastCatch.deps.json
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\bin\Debug\net6.0\PokeLastCatch.runtimeconfig.json
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\bin\Debug\net6.0\PokeLastCatch.dll
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\bin\Debug\net6.0\PokeLastCatch.pdb
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\bin\Debug\net6.0\PKHeX.Core.dll
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\PokeLastCatch.csproj.CopyComplete
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\PokeLastCatch.dll
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\refint\PokeLastCatch.dll
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\PokeLastCatch.pdb
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\PokeLastCatch.genruntimeconfig.cache
+C:\Users\danie\Documents\HUD-PokeCompanion\PokeLastCatch\obj\Debug\net6.0\ref\PokeLastCatch.dll

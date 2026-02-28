@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zCqB/DR5Jbr6HLlAhyiNyh0ONZWZ5NCDc4zeAAbka0hA4xKe1qBI6Un1Aot7erxIMtfR1UzAVQSObahbLHwng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Documents\\HUD-PokeCompanion\\PokeLastCatch\\PokeLastCatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\pkhex.core\\20.11.28\\pkhex.core.20.11.28.nupkg.sha512"
+  ],
+  "logs": []
+}
